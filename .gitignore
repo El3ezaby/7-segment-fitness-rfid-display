@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Python IDE/editor files
+.idea/
+.vscode/
+
+# Build and test artifacts
+build/
+dist/
+.pytest_cache/
+.coverage
+
+# OS files
+Thumbs.db
+.DS_Store
